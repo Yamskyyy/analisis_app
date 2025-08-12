@@ -7,3 +7,5 @@ scikit-learn
 Sastrawi
 textblob
 translate
+transformers
+torch
